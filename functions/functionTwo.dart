@@ -35,3 +35,6 @@ bool funcEstaMadura(int dias) {
     return false;
   }
 }
+// em dart, nós não definimos uma função utilizando a palavra function.
+// colocamos antes do nome da função o tipo do dado que vai sair daquela função.
+//colocar func no inicio do nome da função é uma boa prática de programação.
